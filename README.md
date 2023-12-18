@@ -1,3 +1,11 @@
+[![MasterHead](https://media.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif)](https://www.linkedin.com/in/alexartemovfl)
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Alex Artemov</h1>
 <h3 align="center">A passionate full-stack developer based in South Florida</h3>
 
