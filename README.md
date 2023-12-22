@@ -1,4 +1,3 @@
-[![MasterHead]()](https://www.linkedin.com/in/alexartemovfl)
 
 
 
