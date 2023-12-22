@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif)](https://www.linkedin.com/in/alexartemovfl)
+[![MasterHead]()](https://www.linkedin.com/in/alexartemovfl)
 
 
 
