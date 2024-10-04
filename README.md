@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Tale Together](http://taletogetherai.com.s3-website-us-east-1.amazonaws.com/)
 
-- 💬 Ask me about **React, Javascript, Typescript, Python, AWS**
+- 💬 Ask me about **React, Javascript, Typescript, AWS**
 
 - 📫 How to reach me **artemov.sandro@gmail.com**
 
